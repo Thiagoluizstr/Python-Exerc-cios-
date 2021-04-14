@@ -1,0 +1,11 @@
+print('Dissecando uma variável \n')
+
+a = input('Digite Algo: ')
+print('O tipo primitivo desse valor é ', type(a))
+print('É somente espaços ?', a.isspace())
+print('É um numero ?', a.isnumeric())
+print('É alfabético ?', a.isalpha())
+print('É alfanumérico ?', a.isalnum())
+print('Está em Maiúscula ?', a.isupper())
+print('Está em Minúsculas ?', a.islower())
+print('Está captalizada ?', a.istitle())
