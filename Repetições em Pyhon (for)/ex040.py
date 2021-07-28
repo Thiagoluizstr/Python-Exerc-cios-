@@ -1,0 +1,16 @@
+from time import sleep
+for r in range(10, -1, -1):
+    print(r)
+    sleep(1)
+print('BUM ! BUM! KABUM!')
+sleep(0.5)
+print('Parabéns', end='')
+sleep(1)
+print(' a vaga', end='')
+sleep(1)
+print(' de', end='')
+sleep(1)
+print(' Desenvolvedor', end='')
+sleep(1)
+print(' é sua!')
+print('Seja bem bem vindo ao meu portifólio!')
