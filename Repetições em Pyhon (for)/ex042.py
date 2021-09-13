@@ -1,4 +1,5 @@
 soma = 0 # Iníciando com um acumulador
+
 cont = 0
 for m in range(1, 501, 2):
     if m % 3 == 0:

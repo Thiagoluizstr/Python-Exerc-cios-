@@ -9,3 +9,5 @@ d = p + (10 - 1) * r
 for c in range(0, d + r, r):
     print('{}'.format(c), end=' ➡ ')
 print('Terminou!')
+
+
