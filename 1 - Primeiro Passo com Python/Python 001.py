@@ -10,7 +10,7 @@ print('Até breve.')'''
 
 '''casa = float(input('Qual o valor da casa: R$ '))
 salario = float(input('Salário de comprador? '))
-tempo = int(input('Quanto anos de vinaciamento? '))
+tempo = int(input('Quantos anos de vinaciamento? '))
 
 parcelas = casa / (tempo * 12)
 
